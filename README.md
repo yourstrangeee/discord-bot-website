@@ -40,7 +40,7 @@ A sleek, responsive website built using **Next.js** and **Tailwind CSS** to show
 Clone the repo and run the development server:
 
 ```bash
-git clone https://github.com/yourusername/discord-bot-website.git
+git clone https://github.com/yourstrangeee/discord-bot-website.git
 ```
 cd discord-bot-website
 
