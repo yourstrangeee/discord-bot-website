@@ -4,12 +4,6 @@ A sleek, responsive website built using **Next.js** and **Tailwind CSS** to show
 
 ---
 
-## 🖥️ Live Preview
-
-> Coming Soon or Deploy using [Vercel](https://vercel.com)
-
----
-
 ## 📌 Features
 
 - 💡 **Modern UI** using TailwindCSS
